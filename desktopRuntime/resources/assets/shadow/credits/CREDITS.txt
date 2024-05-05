@@ -18,7 +18,7 @@
  §bzumbiepig:
 
   §b- §bBackported §btextures §bfrom §b1.18
-  §b- §bOther §bimprovements
+  §b- §bMany §bimprovements
 
 
  
