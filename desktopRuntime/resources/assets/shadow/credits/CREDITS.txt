@@ -1,47 +1,45 @@
 §k~~~~~~~~~~~~~~~~~~~~~~~~~~
-§b Shadow Client Developers
+§k§b Shadow Client Developers
 §k~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 §6PeytonPlayz585:
-- Creator of Shadow Client
-- Ported Optifine
-- Ported Credits GUI from Eagler 1.5.2
-- Ported Chunk Borders
-- Made the main menu
-- Made Toggle Sprint
- 
+§6- Creator of Shadow Client
+§6- Ported Optifine
+§6- Ported Credits GUI from Eagler 1.5.2
+§6- Ported Chunk Borders
+§6- Made the main menu
+§6- Made Toggle Sprint
+
 §4kone:
-- Loading screen
-- Password Hiding
+§4- Loading screen
+§4- Password Hiding
 
 §2zumbiepig:
-- Backported textures from 1.18
-- Many improvements
+§2- Backported textures from 1.18
+§2- Many improvements
 
 
 
 
 §k~~~~~~~~~~~~~~~~~~~~~~~~~~~
-§b EaglercraftX Developers
+§k§b EaglercraftX Developers
 §k~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 §clax1dude:
-
-- Creator of Eaglercraft
-- Ported the Minecraft 1.8 src to TeaVM
-- Wrote HW accelerated OpenGL 1.3 emulator
-- Wrote the default shader pack
-- Made the integrated PBR resource pack
-- Wrote all desktop emulation code
-- Wrote EaglercraftXBungee
-- Wrote WebRTC Relay Server
-- Wrote the patch and build system
+§c- Creator of Eaglercraft
+§c- Ported the Minecraft 1.8 src to TeaVM
+§c- Wrote HW accelerated OpenGL 1.3 emulator
+§c- Wrote the default shader pack
+§c- Made the integrated PBR resource pack
+§c- Wrote all desktop emulation code
+§c- Wrote EaglercraftXBungee
+§c- Wrote WebRTC Relay Server
+§c- Wrote the patch and build system
 
 §dayunami2000:
-
-- Many bug fixes
-- WebRTC LAN worlds
-- Added resource packs
-- Added screen recording
-- Added seamless fullscreen
-- Created the replit
+§d- Many bug fixes
+§d- WebRTC LAN worlds
+§d- Added resource packs
+§d- Added screen recording
+§d- Added seamless fullscreen
+§d- Created the replit
