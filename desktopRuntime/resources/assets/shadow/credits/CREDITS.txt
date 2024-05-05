@@ -1,49 +1,47 @@
- §k~~~~~~~~~~~~~~~~~~~~~~~~
- §bShadow Client Developers
- §k~~~~~~~~~~~~~~~~~~~~~~~~
+§k~~~~~~~~~~~~~~~~~~~~~~~~~~
+§b Shadow Client Developers
+§k~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- §bPeytonPlayz585:
-
-  §b- Creator of Shadow Client
-  §b- Ported Optifine
-  §b- Ported Credits GUI from Eagler 1.5.2
-  §b- Ported Chunk Borders
-  §b- Made the main menu
-  §b- Made Toggle Sprint
-
- §4kone:
-
-  §4- Loading screen
-  §4- Password Hiding
-
- §2zumbiepig:
-
-  §2- Backported textures from 1.18
-  §2- Many improvements
-
-
-
- §k~~~~~~~~~~~~~~~~~~~~~~~~
- §bEaglercraftX §bDevelopers
- §k~~~~~~~~~~~~~~~~~~~~~~~~
-
- §blax1dude:
+§6PeytonPlayz585:
+- Creator of Shadow Client
+- Ported Optifine
+- Ported Credits GUI from Eagler 1.5.2
+- Ported Chunk Borders
+- Made the main menu
+- Made Toggle Sprint
  
-  §b- §bCreator §bof §bEaglercraft
-  §b- §bPorted §bthe §bMinecraft §b1.8 §bsrc §bto §bTeaVM
-  §b- §bWrote §bHW §baccelerated §bOpenGL §b1.3 §bemulator
-  §b- §bWrote §bthe §bdefault §bshader §bpack
-  §b- §bMade §bthe §bintegrated §bPBR §bresource §bpack
-  §b- §bWrote §ball §bdesktop §bemulation §bcode
-  §b- §bWrote §bEaglercraftXBungee
-  §b- §bWrote §bWebRTC §bRelay §bServer
-  §b- §bWrote §bthe §bpatch §band §bbuild §bsystem
- 
- §bayunami2000:
- 
-  §b- §bMany §bbug §bfixes
-  §b- §bWebRTC §bLAN §bworlds
-  §b- §bAdded §bresource §bpacks
-  §b- §bAdded §bscreen §brecording
-  §b- §bAdded §bseamless §bfullscreen
-  §b- §bCreated §bthe §breplit
+§4kone:
+- Loading screen
+- Password Hiding
+
+§2zumbiepig:
+- Backported textures from 1.18
+- Many improvements
+
+
+
+
+§k~~~~~~~~~~~~~~~~~~~~~~~~~~~
+§b EaglercraftX Developers
+§k~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+§clax1dude:
+
+- Creator of Eaglercraft
+- Ported the Minecraft 1.8 src to TeaVM
+- Wrote HW accelerated OpenGL 1.3 emulator
+- Wrote the default shader pack
+- Made the integrated PBR resource pack
+- Wrote all desktop emulation code
+- Wrote EaglercraftXBungee
+- Wrote WebRTC Relay Server
+- Wrote the patch and build system
+
+§dayunami2000:
+
+- Many bug fixes
+- WebRTC LAN worlds
+- Added resource packs
+- Added screen recording
+- Added seamless fullscreen
+- Created the replit
