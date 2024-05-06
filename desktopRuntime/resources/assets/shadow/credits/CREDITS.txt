@@ -1,5 +1,5 @@
 §7§k Shadow Client Developers 
-§b Shadow Client Developers
+§b Shadow Client Developers 
 §7§k Shadow Client Developers 
 
 §6PeytonPlayz585:
@@ -13,6 +13,9 @@
 §4kone:
 §4- Loading screen
 §4- Password Hiding
+
+§dOtterDev:
+§d- Created EaglerForge
 
 §2zumbiepig:
 §2- Backported textures from 1.18
@@ -35,10 +38,10 @@
 §e- Wrote WebRTC Relay Server
 §e- Wrote the patch and build system
 
-§dayunami2000:
-§d- Many bug fixes
-§d- WebRTC LAN worlds
-§d- Added resource packs
-§d- Added screen recording
-§d- Added seamless fullscreen
-§d- Created the replit
+§5ayunami2000:
+§5- Many bug fixes
+§5- WebRTC LAN worlds
+§5- Added resource packs
+§5- Added screen recording
+§5- Added seamless fullscreen
+§5- Created the replit

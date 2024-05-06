@@ -1,33 +1,11 @@
- §bExperimental §bVisGraph
- §b~~~~~~~~~~~~~~~~~~~~~~~~
+§b§k Experimental VisGraph 
+§b Experimental VisGraph 
+§b§k Experimental VisGraph 
 
- §bChanges:
-  
-  §b- §bUses §bdifferent §bBitSet §boperations §bfor §bboth §bopaque §band 
-      §bvisible §bblocks
-
-  §b- §bUses §bIntStack §binstead §bof §bLinkedList, §bincreases 
-      §bperformance §bon §blarger §brender §bdistances
-
-  §b- §bKeeps §btrack §bof §btotal §bnumber §bof §btransparent §bblocks
-
-  §b- §bStores §bprecomputed §bvisibility §bdata §band §bvisibility §bstate
-
-  §b- §bChecks §bif §bvisibility §bupdate §bis §bactually §bneeded
-
-  §b- §bSeperate §bfunctions §bfor §bgetting §bvisible §bfaces §bfrom §ba 
-      §bblock §bposition
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+§bChanges:
+§b- Uses different BitSet operations for both opaque and visible blocks
+§b- Uses IntStack instead of LinkedList, increases performance on larger render distances
+§b- Keeps track of total number of transparent blocks
+§b- Stores precomputed visibility data and visibility state
+§b- Checks if visibility update is actually needed
+§b- Seperate functions for getting visible faces from a block position
