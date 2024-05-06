@@ -25,16 +25,16 @@
 §k§b EaglercraftX Developers
 §k~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-§nlax1dude:
-§n- Creator of Eaglercraft
-§n- Ported the Minecraft 1.8 src to TeaVM
-§n- Wrote HW accelerated OpenGL 1.3 emulator
-§n- Wrote the default shader pack
-§n- Made the integrated PBR resource pack
-§n- Wrote all desktop emulation code
-§n- Wrote EaglercraftXBungee
-§n- Wrote WebRTC Relay Server
-§n- Wrote the patch and build system
+§elax1dude:
+§e- Creator of Eaglercraft
+§e- Ported the Minecraft 1.8 src to TeaVM
+§e- Wrote HW accelerated OpenGL 1.3 emulator
+§e- Wrote the default shader pack
+§e- Made the integrated PBR resource pack
+§e- Wrote all desktop emulation code
+§e- Wrote EaglercraftXBungee
+§e- Wrote WebRTC Relay Server
+§e- Wrote the patch and build system
 
 §dayunami2000:
 §d- Many bug fixes
