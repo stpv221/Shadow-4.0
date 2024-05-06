@@ -3,7 +3,7 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: checkout repository
         uses: actions/checkout@v4
@@ -16,9 +16,9 @@ jobs:
       - name: validate gradle wrapper
         uses: gradle/actions/wrapper-validation@v3
       - name: compile javascript
-        run: ./gradlew generateJavaScript
+        run: ./gradlew.bat generateJavaScript
       - name: compile web assets
-        run: bash CompileEPK.sh
+        run: ./CompileEPK.bat
       - name: upload web version
         uses: actions/upload-artifact@v4
         with:
