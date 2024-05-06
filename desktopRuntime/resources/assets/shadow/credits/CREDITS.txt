@@ -1,6 +1,6 @@
-§b§k~Shadow Client Developers~
+§2§k Shadow Client Developers 
 §b Shadow Client Developers
-§b§k~Shadow Client Developers~
+§2§k Shadow Client Developers 
 
 §6PeytonPlayz585:
 §6- Creator of Shadow Client
@@ -21,9 +21,9 @@
 
 
 
-§b§k~EaglercraftX Developers~
+§2§k~EaglercraftX Developers~
 §b EaglercraftX Developers
-§b§k~EaglercraftX Developers~
+§2§k~EaglercraftX Developers~
 
 §elax1dude:
 §e- Creator of Eaglercraft
