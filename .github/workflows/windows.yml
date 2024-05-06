@@ -1,4 +1,4 @@
-name: build
+name: windows
 on: push
 
 jobs:
@@ -16,11 +16,11 @@ jobs:
       - name: validate gradle wrapper
         uses: gradle/actions/wrapper-validation@v3
       - name: compile javascript
-        run: gradlew.bat generateJavaScript
+        run: ./gradlew.bat generateJavaScript
       - name: compile offline assets
-        run: CompileEPK.bat
+        run: ./CompileEPK.bat
       - name: make offline download
-        run: MakeOfflineDownload.bat
+        run: ./MakeOfflineDownload.bat
       - name: upload
         uses: actions/upload-artifact@v4
         with:
