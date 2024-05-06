@@ -4,14 +4,10 @@
 
 ## Building the web/offline version
 
-I recommend that you fork this repository and build using Github Actions.
-
-Here is how you build it yourself:
-
 1. Clone this github repo
 2. cd into the directory of this repo
-3. Run `bash ./CompileJS.sh`
-5. If you want the offline download, run `bash ./MakeOfflineDownload.sh`
+3. Run `./gradlew generateJavaScript`
+4. If you want the offline download, run `bash ./MakeOfflineDownload.sh`
 
 ## Running the Desktop Runtime
 
@@ -21,4 +17,4 @@ Here is how you build it yourself:
 
 1. Clone this Github repo
 2. cd into the directory of this repo
-3. Run `bash ./RunClient.sh` and wait for it to finish compiling
+3. Run `./gradlew runClient` and wait for it to finish compiling
