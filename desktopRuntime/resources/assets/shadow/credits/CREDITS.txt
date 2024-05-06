@@ -1,6 +1,6 @@
-§2§k Shadow Client Developers 
+§7§k Shadow Client Developers 
 §b Shadow Client Developers
-§2§k Shadow Client Developers 
+§7§k Shadow Client Developers 
 
 §6PeytonPlayz585:
 §6- Creator of Shadow Client
@@ -16,12 +16,13 @@
 
 §2zumbiepig:
 §2- Backported textures from 1.18
-§2- Many improvements
+§2- Other minor improvements
 
 
-§2§k~EaglercraftX Developers~
+
+§7§k~EaglercraftX Developers~
 §b EaglercraftX Developers
-§2§k~EaglercraftX Developers~
+§7§k~EaglercraftX Developers~
 
 §elax1dude:
 §e- Creator of Eaglercraft
